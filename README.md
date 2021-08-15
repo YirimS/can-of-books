@@ -1,11 +1,32 @@
-# Start your own "Can of Books" App
+# Project Name
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author**: Yirim Seck and Zach Winterton
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
-## What can books do?
+## Overview
+We are building this application to aithenticate usersn to verify their identity.  
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Getting Started
+first you must create a React app in your termianl running the proper code for setup. you'll want to set up two seperate repositories for both your frontend and backend.
 
-## Use this template
+## Architecture
+This app was made using Javascrip, css, bootstrap components.
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Change Log
+
+08-014-2021 11:44pm - set up Auth account. following the docs wrapped App in Auth0 and added Auth to index js.
+
+## Credit and Collaborations
+<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Time Estimates
+For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
+
+Name of feature: Auth0
+
+Estimate of time needed to complete: unknown
+
+Start time: 3;30
+
+Finish time:11:44
+
+Actual time needed to complete: 4 hours
