@@ -38,7 +38,7 @@ Name of feature: loginButton and reworked some code to render my page
 
 Estimate of time needed to complete: unknown
 
-Start time: 8:00
+Start time: 8:15
 
 Finish time:10:15
 
