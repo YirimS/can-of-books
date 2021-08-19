@@ -1,7 +1,7 @@
 # Project Name
 
 **Author**: Yirim Seck and Zach Winterton
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 2.5.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 We are building this application to aithenticate usersn to verify their identity.  
@@ -30,3 +30,18 @@ Start time: 3;30
 Finish time:11:44
 
 Actual time needed to complete: 4 hours
+
+_________________________________________________________________
+08-018-2021
+
+Name of feature: loginButton and reworked some code to render my page
+
+Estimate of time needed to complete: unknown
+
+Start time: 8:00
+
+Finish time:10:15
+
+Actual time needed to complete: 1.5 hrs
+
+(WRRC-Lab11.jpg)[WRRC-Lab11.jpg]
